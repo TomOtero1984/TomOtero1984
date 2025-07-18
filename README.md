@@ -1,16 +1,19 @@
-## Hi there 👋
+# Software Engineer with education in Mechanical Engineering  
+### Embedded Systems | Robotics & Kinematics | CI/CD | Build & Release
 
-<!--
-**TomOtero1984/TomOtero1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, Tom Otero!
 
-Here are some ideas to get you started:
+My background spans embedded Linux, CI/CD automation, container orchestration, and secure network pipelines. I’ve written test suites that validate Bluetooth mesh networks under degraded RF, containerized Windows services for improved build automation, and built LLM environments with segmented VPN routing and prompt-aware orchestration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on:
+- 🐚 **ConC**: [A symbolic compression and execution format for LLMs. Like machine code for thought. Demo coming soon!!](https://github.com/TomOtero1984/ConC.GPT)
+- 🦙 **LLM Hosting**: [Minimized containers running Llama 3.2 1B hosted on Ollama.](https://github.com/TomOtero1984/llm-containers/blob/main/README.md) 
+- 💾 **WASM Linux**: [Embedded Linux inside my Vue/Vite web portfolio.](https://www.tom-otero.com/terminal)
+- 🐳 **Docker Preprocessor**: [Lightweight C utility that injects environment variables into templated Dockerfiles.](https://github.com/TomOtero1984/DockerPreprocessor/blob/main/README.md)
+
+
+---
+
+### 📍 Based in Los Angeles, CA (after 7/29)  
+📫 Reach me: [tomotero1984@gmail.com](mailto:tomotero1984@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/tomotero1984)
