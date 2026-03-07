@@ -14,6 +14,6 @@ What I'm working on:
 
 ---
 
-### 📍 Based in Los Angeles, CA (after 7/29)  
+### 📍 Based in Los Angeles, CA  
 📫 Reach me: [tomotero1984@gmail.com](mailto:tomotero1984@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/tomotero1984)
