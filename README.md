@@ -15,5 +15,6 @@ What I'm working on:
 ---
 
 ### 📍 Based in Los Angeles, CA  
-📫 Reach me: [tomotero1984@gmail.com](mailto:tomotero1984@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tomotero1984)
+- Reach me: [tomotero1984@gmail.com](mailto:tomotero1984@gmail.com)  
+- LinkedIn: [https://linkedin.com/in/tomotero1984](https://linkedin.com/in/tomotero1984)
+- Portfolio: [tom-otero.com](https://tom-otero.com/)
