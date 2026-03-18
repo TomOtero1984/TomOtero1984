@@ -10,7 +10,7 @@ What I'm working on:
 - 🦙 **LLM Hosting**: [Minimized containers running Llama 3.2 1B hosted on Ollama.](https://github.com/TomOtero1984/llm-containers/blob/main/README.md) 
 - 💾 **WASM Linux**: [Embedded Linux inside my Vue/Vite web portfolio.](https://www.tom-otero.com/terminal)
 - 🐳 **Docker Preprocessor**: [Lightweight C utility that injects environment variables into templated Dockerfiles.](https://github.com/TomOtero1984/DockerPreprocessor/blob/main/README.md)
-
+- 🐫 **OMaze** [Bazel to CMake Transpiler. Automates most of the boiler plate.](https://github.com/TomOtero1984/OMaze)
 
 ---
 
